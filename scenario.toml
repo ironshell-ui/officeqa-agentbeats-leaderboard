@@ -13,4 +13,4 @@ corpus_url = "https://github.com/databricks/officeqa/tree/6aa8c32/treasury_bulle
 num_questions = 246
 difficulty = "all"
 tolerance = 0.0
-# run: OfficeQA v4 — IronForge v14.1 Precision RAG + 15 chunks × 120 lines + FY/CY awareness — 2026-03-15
+# run: OfficeQA v5 — IronForge v15 Code Exec + Supervisor + Precision RAG — 2026-03-15
